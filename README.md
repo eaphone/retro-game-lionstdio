@@ -9,7 +9,7 @@ a retro games console
 - hw use ili9342 drive 2.4 inch half reflection ttf display, powered by esp32s3/p4
 [display without backlight effect](assets/ttf-s.mp4)
 - 3d print case without screw
-<img src="case/render.jpg" alt="render view" width="300">
+<img src="case/render.png" alt="render view" width="300">
 
 # notice:
 TBD
