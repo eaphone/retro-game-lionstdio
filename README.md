@@ -4,12 +4,12 @@ a retro games console
 # brief introduction:
 - firmware based on retro-go integrated gba, dos simulator. add wired netplay, video player.
 ![Preview](assets/gba.jpg)
-![Preview](assets/dos-s.mp4)
-![Preview](assets/videoPlayer-s.jpg)
+[LEGEND runing with freedos at esp32s3](assets/dos-s.mp4)
+[videoplayer](assets/videoPlayer-s.mp4)
 - hw use ili9342 drive 2.4 inch half reflection ttf display, powered by esp32s3/p4
-![Preview](assets/ttf-s.mp4)
+[display without backlight effect](assets/ttf-s.mp4)
 - 3d print case without screw
-![Preview](case/render.jpg)
+![Preview](case/render.png)
 
 # notice:
 TBD
