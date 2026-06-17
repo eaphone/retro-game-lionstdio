@@ -13,7 +13,7 @@ JLC pcb service. parameter:\
 
 # Building
 ## environment
-recommand Ubuntu + esp-idf5.5.4
+recommand Ubuntu + esp-idf5.5
 
 ## build
 source {path to esp-idf}/export.sh
