@@ -24,5 +24,9 @@ display without backlight, under sunshine effect \
 # Final product:
 <img src="case/product.jpg" alt="product view" width="250">
 
+# Acknowledgements
+- The retro-go is forked of the [retro-go](https://github.com/ducalex/retro-go) by ducalex and many others.
+- The dos simulator is forked of the [tiny386](https://github.com/hchunhui/tiny386) by hchunhui.
+
 # License
 Everything in this project is licensed under the [GPLv2 license](COPYING)
