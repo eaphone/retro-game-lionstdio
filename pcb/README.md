@@ -5,7 +5,9 @@
 - [Flashing](#flashing)
 
 # Eletronic component
-TBD
+- main ecs are specified at BOMxx.xlsx for  s3/p4
+- 10* round Snap dome 5mm (100g pressure is recommand)
+- 1* 303759-750mah battery (30mm thin, 37*59mm size)
 
 # Manufacture
 JLC pcb service. parameter:\
